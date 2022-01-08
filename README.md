@@ -53,7 +53,7 @@ IBM Assistant Document: https://cloud.ibm.com/apidocs/assistant/assistant-v2?cod
     </tr>
     <tr>
         <td> / </td> <td> <b>GET</b> </td> <td>  </td>
-    <td>
+    </tr>
     <tr>
         <td> /ask </td> <td> <b>POST</b> </td>
         <td> 
@@ -64,10 +64,10 @@ IBM Assistant Document: https://cloud.ibm.com/apidocs/assistant/assistant-v2?cod
             }
             </pre>
         </td>
-    <td>
+    </tr>
     <tr>
         <td> /start </td> <td> <b>GET</b> </td> <td>  </td>
-    <td>
+    </tr>
     <tr>
         <td> /stop </td> <td> <b>POST</b> </td>
         <td> 
@@ -77,5 +77,5 @@ IBM Assistant Document: https://cloud.ibm.com/apidocs/assistant/assistant-v2?cod
             }
             </pre>
         </td>
-    <td>
+    </tr>
 </table>
