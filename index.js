@@ -11,11 +11,13 @@ const bodyParserJsonConfig = () => ({
 });
 
 const app = express();
-const ask = require('./controller').ask;
+const {ask, begin, end} = require('./controller');
 
 app.use(bodyParser.json(bodyParserJsonConfig()));
 
 app.get('/', (req, res) => res.send('Hello JA!'))
 app.post('/ask', ask)
+app.get('/start', begin)
+app.post('/stop', end)
 
 app.listen(3000, () => console.log('Listening on port 3000'))
