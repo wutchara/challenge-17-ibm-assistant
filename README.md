@@ -28,16 +28,16 @@ IBM Assistant Document: https://cloud.ibm.com/apidocs/assistant/assistant-v2?cod
 ## Sample
 
 - Create session
-![image info](./images/1_create_session.png)
+![image info](https://github.com/wutchara/challenge-17-ibm-assistant/blob/main/images/1_create_session.PNG)
 
 - Test send message: **`Hello`**
-![image info](./images/2_say_hello.png)
+![image info](https://github.com/wutchara/challenge-17-ibm-assistant/blob/main/images/2_say_hello.PNG)
 
 - Test send message: **`BYE`**
-![image info](./images/3_bye.png)
+![image info](https://github.com/wutchara/challenge-17-ibm-assistant/blob/main/images/3_bye.PNG)
 
 - Remove session
-![image info](./images/4_remove_session.png)
+![image info](https://github.com/wutchara/challenge-17-ibm-assistant/blob/main/images/4_remove_session.PNG)
 
 ---
 
